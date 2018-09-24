@@ -6,7 +6,7 @@
 # Lab 0
 # Section 13/14
 # Purpose of lab: Environment, python, and testing
-# Additional comments: 
+# Additional comments
 
 # Function takes in a number which represents a weight on earth and outputs two numbers which represent that weight being converted to fit Mars’ and Jupiter’s atmospheres.
 def weight_on_planets():
